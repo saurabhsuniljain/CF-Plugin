@@ -32,6 +32,7 @@ Now follow [this] (http://www.howtogeek.com/116807/how-to-easily-add-custom-righ
 ![alt tag] (https://github.com/saurabhsuniljain/GCJ_Plugin/raw/master/GCJ_Setup_2.png)
 
 #Usage
+It is assumed that the folder in which you wants to create current CF Round folder has Templates folder with template.cpp inside it. If you don't have one you can download from this repository.
 - Linux with `nemo` file manager : You can use this in two ways, either go to the contest folder you created right-click and choose whichever action you want to perform or select the folder, right-click and choose the script to run from the scripts sub-menu.
 - Linux with `nautilus` file manager : You can direclty right-click in the specified and choose the action.
 
