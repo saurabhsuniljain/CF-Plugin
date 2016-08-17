@@ -1,0 +1,7 @@
+[Nemo Action]
+Name=CF-Execute
+Comment=Code Forces Regular Rounds Plugin
+Quote=double
+Exec=<../scripts/CF_Execute.sh %F>
+Selection = none
+Extensions=dir
